@@ -1,0 +1,55 @@
+
+baby03.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 25
+  size: 90, 101
+  orig: 90, 101
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 94, 80
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+eye02
+  rotate: true
+  xy: 94, 2
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: false
+  xy: 94, 32
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+eye04
+  rotate: false
+  xy: 138, 83
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+foot01
+  rotate: false
+  xy: 138, 57
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 168, 96
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1

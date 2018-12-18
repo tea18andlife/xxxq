@@ -1,0 +1,55 @@
+
+monster20b.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 60
+  size: 194, 187
+  orig: 194, 187
+  offset: 0, 0
+  index: -1
+eye -01
+  rotate: false
+  xy: 198, 129
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+eye -02
+  rotate: false
+  xy: 296, 211
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+eye-03
+  rotate: false
+  xy: 61, 43
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+eye-04
+  rotate: false
+  xy: 198, 115
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+hand-01
+  rotate: false
+  xy: 2, 2
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+wing_01
+  rotate: false
+  xy: 198, 167
+  size: 96, 80
+  orig: 96, 80
+  offset: 0, 0
+  index: -1

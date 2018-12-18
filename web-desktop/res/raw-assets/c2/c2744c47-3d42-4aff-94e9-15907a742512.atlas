@@ -1,0 +1,20 @@
+
+chicken.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 11
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 2, 2
+  size: 35, 7
+  orig: 35, 7
+  offset: 0, 0
+  index: -1

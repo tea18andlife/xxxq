@@ -1,0 +1,41 @@
+
+lockbaby.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baby01
+  rotate: false
+  xy: 192, 71
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+baby02
+  rotate: false
+  xy: 192, 19
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+baby03
+  rotate: false
+  xy: 2, 2
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+lock01
+  rotate: false
+  xy: 2, 18
+  size: 95, 103
+  orig: 95, 103
+  offset: 0, 0
+  index: -1
+lock02
+  rotate: false
+  xy: 99, 45
+  size: 91, 76
+  orig: 91, 76
+  offset: 0, 0
+  index: -1

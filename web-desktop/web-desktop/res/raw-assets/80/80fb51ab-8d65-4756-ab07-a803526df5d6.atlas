@@ -1,0 +1,111 @@
+
+usher.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 496, 137
+  size: 105, 117
+  orig: 105, 117
+  offset: 0, 0
+  index: -1
+ear01
+  rotate: false
+  xy: 223, 22
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: true
+  xy: 684, 218
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+eye02
+  rotate: false
+  xy: 107, 2
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+eye04
+  rotate: false
+  xy: 147, 2
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+eyeglass
+  rotate: false
+  xy: 603, 216
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+foot01
+  rotate: false
+  xy: 187, 2
+  size: 34, 69
+  orig: 34, 69
+  offset: 0, 0
+  index: -1
+foot02
+  rotate: false
+  xy: 603, 138
+  size: 34, 76
+  orig: 34, 76
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 275, 25
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+hand01
+  rotate: true
+  xy: 2, 9
+  size: 50, 103
+  orig: 50, 103
+  offset: 0, 0
+  index: -1
+hand02
+  rotate: false
+  xy: 161, 73
+  size: 166, 181
+  orig: 166, 181
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 329, 110
+  size: 165, 144
+  orig: 165, 144
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 329, 78
+  size: 94, 30
+  orig: 94, 30
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 2, 61
+  size: 157, 193
+  orig: 157, 193
+  offset: 0, 0
+  index: -1
+tie
+  rotate: false
+  xy: 496, 112
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1

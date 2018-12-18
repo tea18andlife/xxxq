@@ -1,0 +1,55 @@
+
+monster26.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body01
+  rotate: false
+  xy: 2, 17
+  size: 143, 109
+  orig: 143, 109
+  offset: 0, 0
+  index: -1
+body02
+  rotate: false
+  xy: 268, 94
+  size: 110, 32
+  orig: 110, 32
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 268, 35
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+eye04
+  rotate: true
+  xy: 147, 2
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+foot01
+  rotate: true
+  xy: 380, 82
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+hand01
+  rotate: true
+  xy: 268, 54
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 147, 31
+  size: 119, 95
+  orig: 119, 95
+  offset: 0, 0
+  index: -1

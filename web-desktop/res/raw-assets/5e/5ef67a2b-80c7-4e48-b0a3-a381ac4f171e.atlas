@@ -1,0 +1,27 @@
+
+owl.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 32
+  size: 66, 73
+  orig: 66, 73
+  offset: 0, 0
+  index: -1
+eye-01
+  rotate: false
+  xy: 70, 78
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+eye-03
+  rotate: false
+  xy: 2, 2
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1

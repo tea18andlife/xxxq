@@ -1,0 +1,69 @@
+
+monster15.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 22
+  size: 71, 104
+  orig: 71, 104
+  offset: 0, 0
+  index: -1
+eye-01
+  rotate: true
+  xy: 75, 92
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+eye-02
+  rotate: true
+  xy: 75, 56
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+horn
+  rotate: true
+  xy: 75, 11
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+horn2
+  rotate: true
+  xy: 75, 33
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+mouth-01
+  rotate: false
+  xy: 2, 2
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+mouth-02
+  rotate: true
+  xy: 43, 6
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+tear
+  rotate: true
+  xy: 105, 27
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+wound
+  rotate: true
+  xy: 31, 2
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1

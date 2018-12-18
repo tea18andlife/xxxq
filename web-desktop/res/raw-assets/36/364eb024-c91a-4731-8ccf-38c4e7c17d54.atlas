@@ -1,0 +1,55 @@
+
+monster19b.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 107
+  size: 161, 147
+  orig: 161, 147
+  offset: 0, 0
+  index: -1
+eye -01
+  rotate: false
+  xy: 72, 71
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+eye -02
+  rotate: false
+  xy: 165, 173
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+eye-03
+  rotate: true
+  xy: 2, 2
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+eye-04
+  rotate: false
+  xy: 211, 243
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+hand-01
+  rotate: false
+  xy: 165, 209
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+wing_01
+  rotate: false
+  xy: 2, 29
+  size: 68, 76
+  orig: 68, 76
+  offset: 0, 0
+  index: -1

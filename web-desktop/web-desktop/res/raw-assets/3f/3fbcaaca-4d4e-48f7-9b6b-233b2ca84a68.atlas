@@ -1,0 +1,83 @@
+
+ricky_3.png
+size: 220,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-01
+  rotate: true
+  xy: 180, 70
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 136, 108
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+eye-01
+  rotate: false
+  xy: 136, 161
+  size: 72, 57
+  orig: 72, 57
+  offset: 0, 0
+  index: -1
+eye-02
+  rotate: false
+  xy: 2, 16
+  size: 72, 57
+  orig: 72, 57
+  offset: 0, 0
+  index: -1
+eye-03
+  rotate: true
+  xy: 202, 99
+  size: 60, 14
+  orig: 60, 14
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 114
+  size: 132, 104
+  orig: 132, 104
+  offset: 0, 0
+  index: -1
+mouth-01
+  rotate: true
+  xy: 210, 203
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+mouth-02
+  rotate: false
+  xy: 2, 4
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+pipe
+  rotate: false
+  xy: 129, 60
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+ricky-body2
+  rotate: true
+  xy: 76, 13
+  size: 60, 51
+  orig: 60, 51
+  offset: 0, 0
+  index: -1
+ricky-touying
+  rotate: false
+  xy: 2, 75
+  size: 101, 37
+  orig: 101, 37
+  offset: 0, 0
+  index: -1

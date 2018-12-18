@@ -1,0 +1,55 @@
+
+monster21b.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 19
+  size: 131, 107
+  orig: 131, 107
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 135, 89
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: false
+  xy: 135, 50
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+hand01
+  rotate: false
+  xy: 181, 83
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: true
+  xy: 161, 9
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 181, 110
+  size: 41, 16
+  orig: 41, 16
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 135, 2
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1

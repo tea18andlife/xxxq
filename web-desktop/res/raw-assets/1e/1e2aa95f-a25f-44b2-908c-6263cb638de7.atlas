@@ -1,0 +1,41 @@
+
+baby04.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 41
+  size: 104, 83
+  orig: 104, 83
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 2, 2
+  size: 55, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+eye02
+  rotate: false
+  xy: 172, 87
+  size: 55, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 108, 77
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 108, 46
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1

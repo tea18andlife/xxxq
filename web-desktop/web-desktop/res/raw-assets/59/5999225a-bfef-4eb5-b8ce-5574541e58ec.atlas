@@ -1,0 +1,118 @@
+
+orange.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body01
+  rotate: false
+  xy: 96, 44
+  size: 80, 82
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+body02
+  rotate: false
+  xy: 2, 34
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 178, 79
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: false
+  xy: 29, 2
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+eye05
+  rotate: false
+  xy: 178, 50
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+eye07
+  rotate: true
+  xy: 205, 63
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+eyebrow01
+  rotate: false
+  xy: 83, 24
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+eyebrow03_angry
+  rotate: false
+  xy: 96, 35
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 205, 53
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 2, 2
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+mouth03
+  rotate: false
+  xy: 205, 85
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+mouth04_happy
+  rotate: false
+  xy: 2, 18
+  size: 46, 14
+  orig: 46, 14
+  offset: 0, 0
+  index: -1
+mouth05_happy
+  rotate: false
+  xy: 178, 108
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+mouth06
+  rotate: false
+  xy: 50, 20
+  size: 31, 12
+  orig: 31, 12
+  offset: 0, 0
+  index: -1
+mouth07_angry
+  rotate: false
+  xy: 217, 111
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+tears01
+  rotate: false
+  xy: 222, 99
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1

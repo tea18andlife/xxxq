@@ -1,0 +1,118 @@
+
+monster4b.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+antenna-01
+  rotate: true
+  xy: 101, 3
+  size: 19, 47
+  orig: 19, 47
+  offset: 0, 0
+  index: -1
+antenna-02
+  rotate: true
+  xy: 429, 50
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 197, 49
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+eye-01
+  rotate: false
+  xy: 274, 64
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+eye-02
+  rotate: true
+  xy: 429, 6
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+eye-03
+  rotate: true
+  xy: 318, 4
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+eye-04
+  rotate: true
+  xy: 462, 83
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+eye-05
+  rotate: false
+  xy: 197, 25
+  size: 45, 22
+  orig: 45, 22
+  offset: 0, 0
+  index: -1
+eye-07
+  rotate: false
+  xy: 192, 3
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+hand-01
+  rotate: true
+  xy: 335, 75
+  size: 51, 65
+  orig: 51, 65
+  offset: 0, 0
+  index: -1
+hand-02
+  rotate: true
+  xy: 402, 84
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+hand-03
+  rotate: true
+  xy: 381, 17
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 4
+  size: 122, 97
+  orig: 122, 97
+  offset: 0, 0
+  index: -1
+mouth-01
+  rotate: false
+  xy: 244, 2
+  size: 72, 45
+  orig: 72, 45
+  offset: 0, 0
+  index: -1
+mouth-02
+  rotate: false
+  xy: 150, 4
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 101, 24
+  size: 102, 94
+  orig: 102, 94
+  offset: 0, 0
+  index: -1

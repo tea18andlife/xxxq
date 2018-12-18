@@ -1,0 +1,111 @@
+
+radish.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body01
+  rotate: false
+  xy: 93, 43
+  size: 79, 83
+  orig: 79, 83
+  offset: 0, 0
+  index: -1
+body02
+  rotate: false
+  xy: 2, 34
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 174, 100
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: false
+  xy: 201, 102
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+eye05
+  rotate: true
+  xy: 32, 2
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+eye07
+  rotate: true
+  xy: 174, 49
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+eye09
+  rotate: false
+  xy: 2, 6
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+eyebrow01
+  rotate: false
+  xy: 32, 8
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+eyebrow03
+  rotate: false
+  xy: 93, 34
+  size: 22, 7
+  orig: 22, 7
+  offset: 0, 0
+  index: -1
+mouth01_happy
+  rotate: false
+  xy: 201, 118
+  size: 28, 8
+  orig: 28, 8
+  offset: 0, 0
+  index: -1
+mouth02_happy
+  rotate: false
+  xy: 32, 14
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+mouth03
+  rotate: false
+  xy: 90, 23
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+mouth04
+  rotate: true
+  xy: 174, 71
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+mouth05
+  rotate: false
+  xy: 66, 21
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+mouth06
+  rotate: true
+  xy: 190, 80
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1

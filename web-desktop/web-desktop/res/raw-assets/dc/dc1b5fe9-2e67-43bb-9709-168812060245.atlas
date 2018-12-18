@@ -1,0 +1,90 @@
+
+kaokao_3.png
+size: 235,235
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 144, 155
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+eye-1
+  rotate: true
+  xy: 44, 22
+  size: 97, 55
+  orig: 97, 55
+  offset: 0, 0
+  index: -1
+eye-2
+  rotate: true
+  xy: 101, 22
+  size: 97, 55
+  orig: 97, 55
+  offset: 0, 0
+  index: -1
+eye-3
+  rotate: false
+  xy: 144, 217
+  size: 72, 16
+  orig: 72, 16
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 121
+  size: 140, 112
+  orig: 140, 112
+  offset: 0, 0
+  index: -1
+kaokao-body2
+  rotate: false
+  xy: 158, 46
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+kaokao-touying
+  rotate: true
+  xy: 2, 12
+  size: 107, 40
+  orig: 107, 40
+  offset: 0, 0
+  index: -1
+left-arm
+  rotate: true
+  xy: 158, 9
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+mouth-1
+  rotate: false
+  xy: 214, 202
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+mouth-2
+  rotate: true
+  xy: 218, 213
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+pipe
+  rotate: true
+  xy: 172, 108
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+right- arm
+  rotate: false
+  xy: 144, 123
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

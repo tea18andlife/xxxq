@@ -1,0 +1,118 @@
+
+tomatoes.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body01
+  rotate: false
+  xy: 96, 39
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+body02
+  rotate: false
+  xy: 2, 30
+  size: 92, 91
+  orig: 92, 91
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 181, 94
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+eye02
+  rotate: true
+  xy: 32, 3
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: true
+  xy: 192, 47
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+eye05
+  rotate: false
+  xy: 61, 3
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+eye07
+  rotate: true
+  xy: 240, 99
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+eye09
+  rotate: false
+  xy: 2, 2
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+eye_angry01
+  rotate: false
+  xy: 209, 103
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+mouith_happy02
+  rotate: false
+  xy: 61, 11
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 181, 42
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+mouth04
+  rotate: false
+  xy: 121, 21
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+mouth05
+  rotate: false
+  xy: 209, 94
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+mouth_angry
+  rotate: false
+  xy: 96, 26
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+mouth_happy01
+  rotate: true
+  xy: 192, 66
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+mouth_happy03
+  rotate: true
+  xy: 181, 52
+  size: 40, 9
+  orig: 40, 9
+  offset: 0, 0
+  index: -1

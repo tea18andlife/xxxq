@@ -1,0 +1,97 @@
+
+tutu.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 308, 71
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: true
+  xy: 197, 24
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+eye02
+  rotate: false
+  xy: 197, 54
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: false
+  xy: 232, 39
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+eye04
+  rotate: false
+  xy: 443, 92
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+flower01
+  rotate: false
+  xy: 235, 74
+  size: 71, 52
+  orig: 71, 52
+  offset: 0, 0
+  index: -1
+flower02
+  rotate: false
+  xy: 377, 74
+  size: 64, 52
+  orig: 64, 52
+  offset: 0, 0
+  index: -1
+hand01
+  rotate: true
+  xy: 478, 102
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 17
+  size: 121, 109
+  orig: 121, 109
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: true
+  xy: 2, 2
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 443, 82
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+tutu-body2
+  rotate: false
+  xy: 125, 30
+  size: 70, 58
+  orig: 70, 58
+  offset: 0, 0
+  index: -1
+tutu-touying
+  rotate: false
+  xy: 125, 90
+  size: 108, 36
+  orig: 108, 36
+  offset: 0, 0
+  index: -1

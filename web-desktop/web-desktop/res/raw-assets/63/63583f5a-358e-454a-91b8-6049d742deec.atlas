@@ -1,0 +1,48 @@
+
+monster22c.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 71
+  size: 154, 128
+  orig: 154, 128
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 2, 33
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: false
+  xy: 158, 163
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+hand01
+  rotate: false
+  xy: 2, 2
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 158, 145
+  size: 36, 16
+  orig: 36, 16
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 47, 54
+  size: 42, 15
+  orig: 42, 15
+  offset: 0, 0
+  index: -1

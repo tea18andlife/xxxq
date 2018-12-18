@@ -1,0 +1,27 @@
+
+ko.png
+size: 382,382
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue
+  rotate: false
+  xy: 2, 2
+  size: 186, 158
+  orig: 186, 158
+  offset: 0, 0
+  index: -1
+effect
+  rotate: false
+  xy: 2, 162
+  size: 207, 218
+  orig: 207, 218
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 190, 2
+  size: 186, 158
+  orig: 186, 158
+  offset: 0, 0
+  index: -1

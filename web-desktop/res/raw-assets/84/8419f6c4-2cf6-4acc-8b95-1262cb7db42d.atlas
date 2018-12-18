@@ -1,0 +1,132 @@
+
+eggplant.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body01
+  rotate: false
+  xy: 80, 41
+  size: 65, 85
+  orig: 65, 85
+  offset: 0, 0
+  index: -1
+body02
+  rotate: false
+  xy: 2, 34
+  size: 76, 92
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 147, 86
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: false
+  xy: 174, 69
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+eye05
+  rotate: false
+  xy: 147, 58
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+eye08
+  rotate: false
+  xy: 48, 19
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+eye10
+  rotate: false
+  xy: 48, 10
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+eye11
+  rotate: false
+  xy: 191, 116
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+eye12
+  rotate: false
+  xy: 215, 116
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: false
+  xy: 48, 2
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 80, 32
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+mouth02_happly
+  rotate: false
+  xy: 2, 9
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+mouth03_happly
+  rotate: false
+  xy: 147, 114
+  size: 42, 12
+  orig: 42, 12
+  offset: 0, 0
+  index: -1
+mouth04
+  rotate: false
+  xy: 238, 116
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+mouth05
+  rotate: true
+  xy: 174, 89
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+mouth06_angry
+  rotate: false
+  xy: 147, 43
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+tears01
+  rotate: false
+  xy: 174, 56
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+tears02
+  rotate: false
+  xy: 173, 47
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1

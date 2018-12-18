@@ -1,0 +1,62 @@
+
+monster16.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 113
+  size: 127, 139
+  orig: 127, 139
+  offset: 0, 0
+  index: -1
+eye-01
+  rotate: false
+  xy: 2, 2
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+eye-02
+  rotate: false
+  xy: 131, 162
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+horn-01
+  rotate: false
+  xy: 2, 50
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+mouth-01
+  rotate: false
+  xy: 131, 206
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+mouth-02
+  rotate: false
+  xy: 44, 73
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+tear
+  rotate: false
+  xy: 188, 224
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+wound
+  rotate: false
+  xy: 44, 91
+  size: 71, 20
+  orig: 71, 20
+  offset: 0, 0
+  index: -1

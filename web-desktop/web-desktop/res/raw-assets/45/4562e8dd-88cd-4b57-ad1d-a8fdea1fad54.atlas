@@ -1,0 +1,27 @@
+
+panda.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 16
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 76, 76
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: false
+  xy: 2, 2
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1

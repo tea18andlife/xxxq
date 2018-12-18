@@ -1,0 +1,76 @@
+
+monster6c.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body-01
+  rotate: false
+  xy: 2, 54
+  size: 99, 69
+  orig: 99, 69
+  offset: 0, 0
+  index: -1
+body-02
+  rotate: false
+  xy: 103, 54
+  size: 78, 69
+  orig: 78, 69
+  offset: 0, 0
+  index: -1
+eye-02
+  rotate: false
+  xy: 2, 28
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+eye-03
+  rotate: false
+  xy: 183, 99
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+eye-04
+  rotate: false
+  xy: 2, 2
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+eye-06
+  rotate: false
+  xy: 183, 88
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+eye-08
+  rotate: false
+  xy: 209, 114
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+eye-09
+  rotate: false
+  xy: 28, 22
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+mouth-01
+  rotate: false
+  xy: 45, 47
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+mouth-02
+  rotate: false
+  xy: 28, 15
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1

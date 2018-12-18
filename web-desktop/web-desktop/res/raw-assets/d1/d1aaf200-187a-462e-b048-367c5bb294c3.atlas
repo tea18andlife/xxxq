@@ -1,0 +1,132 @@
+
+monster04.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body01
+  rotate: false
+  xy: 236, 105
+  size: 174, 149
+  orig: 174, 149
+  offset: 0, 0
+  index: -1
+body02
+  rotate: false
+  xy: 563, 194
+  size: 99, 60
+  orig: 99, 60
+  offset: 0, 0
+  index: -1
+effect
+  rotate: false
+  xy: 2, 134
+  size: 232, 120
+  orig: 232, 120
+  offset: 0, 0
+  index: -1
+eye02
+  rotate: false
+  xy: 795, 220
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: false
+  xy: 752, 203
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+eye04
+  rotate: true
+  xy: 752, 176
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+eye05
+  rotate: false
+  xy: 90, 2
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+eye06
+  rotate: false
+  xy: 858, 234
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+eye07
+  rotate: false
+  xy: 122, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+foot01
+  rotate: true
+  xy: 515, 92
+  size: 95, 43
+  orig: 95, 43
+  offset: 0, 0
+  index: -1
+hand01
+  rotate: false
+  xy: 412, 88
+  size: 101, 99
+  orig: 101, 99
+  offset: 0, 0
+  index: -1
+hand02
+  rotate: false
+  xy: 157, 42
+  size: 70, 90
+  orig: 70, 90
+  offset: 0, 0
+  index: -1
+hand03
+  rotate: false
+  xy: 664, 170
+  size: 86, 84
+  orig: 86, 84
+  offset: 0, 0
+  index: -1
+hand04
+  rotate: false
+  xy: 2, 43
+  size: 153, 89
+  orig: 153, 89
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 412, 189
+  size: 149, 65
+  orig: 149, 65
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 2, 10
+  size: 86, 31
+  orig: 86, 31
+  offset: 0, 0
+  index: -1
+tear01
+  rotate: false
+  xy: 90, 25
+  size: 53, 16
+  orig: 53, 16
+  offset: 0, 0
+  index: -1
+tear02
+  rotate: false
+  xy: 819, 237
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1

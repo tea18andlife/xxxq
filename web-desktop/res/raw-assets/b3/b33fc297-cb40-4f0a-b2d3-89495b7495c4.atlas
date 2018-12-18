@@ -1,0 +1,111 @@
+
+logo1.png
+size: 604,604
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+butterfly01
+  rotate: false
+  xy: 2, 165
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+butterfly02
+  rotate: false
+  xy: 57, 229
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+butterfly03
+  rotate: false
+  xy: 88, 234
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+butterfly04
+  rotate: false
+  xy: 137, 293
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+butterfly05
+  rotate: true
+  xy: 173, 310
+  size: 10, 42
+  orig: 10, 42
+  offset: 0, 0
+  index: -1
+butterfly06
+  rotate: false
+  xy: 2, 72
+  size: 14, 33
+  orig: 14, 33
+  offset: 0, 0
+  index: -1
+butterfly_body
+  rotate: false
+  xy: 112, 279
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+fruits01
+  rotate: false
+  xy: 2, 209
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+fruits02
+  rotate: false
+  xy: 2, 261
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+fruits02_eye01
+  rotate: false
+  xy: 2, 107
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+fruits02_eye02
+  rotate: false
+  xy: 137, 279
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+fruits02_eye03
+  rotate: false
+  xy: 2, 135
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+fruits1_eye01
+  rotate: false
+  xy: 57, 213
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+fruits1_eye02
+  rotate: false
+  xy: 57, 273
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 2, 322
+  size: 600, 280
+  orig: 600, 280
+  offset: 0, 0
+  index: -1

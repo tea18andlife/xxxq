@@ -1,0 +1,97 @@
+
+monster17c.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 105
+  size: 137, 149
+  orig: 137, 149
+  offset: 0, 0
+  index: -1
+ear-01
+  rotate: true
+  xy: 94, 2
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+eye-01
+  rotate: false
+  xy: 141, 80
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+eye-02
+  rotate: false
+  xy: 192, 154
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+hand-01
+  rotate: true
+  xy: 94, 47
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+hand-02
+  rotate: true
+  xy: 141, 44
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+horn-01
+  rotate: false
+  xy: 141, 131
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+horn-02
+  rotate: false
+  xy: 141, 187
+  size: 43, 67
+  orig: 43, 67
+  offset: 0, 0
+  index: -1
+mouth-01
+  rotate: false
+  xy: 186, 205
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+mouth-02
+  rotate: false
+  xy: 2, 8
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+tear
+  rotate: false
+  xy: 192, 130
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+wound-01
+  rotate: false
+  xy: 2, 25
+  size: 90, 78
+  orig: 90, 78
+  offset: 0, 0
+  index: -1
+wound-02
+  rotate: false
+  xy: 241, 189
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1

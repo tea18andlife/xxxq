@@ -1,0 +1,48 @@
+
+baby02.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 34
+  size: 100, 83
+  orig: 100, 83
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 2, 2
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: false
+  xy: 104, 37
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+flower
+  rotate: false
+  xy: 104, 69
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+hand01
+  rotate: false
+  xy: 163, 96
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 35, 16
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

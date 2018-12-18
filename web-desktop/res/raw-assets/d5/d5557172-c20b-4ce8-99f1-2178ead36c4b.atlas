@@ -1,0 +1,83 @@
+
+mika_3.png
+size: 235,235
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 74, 3
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 2, 67
+  size: 97, 61
+  orig: 97, 61
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 120, 172
+  size: 97, 61
+  orig: 97, 61
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 130
+  size: 116, 103
+  orig: 116, 103
+  offset: 0, 0
+  index: -1
+left-arm
+  rotate: false
+  xy: 158, 71
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+light-arm
+  rotate: false
+  xy: 205, 103
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+mike-body2
+  rotate: true
+  xy: 101, 67
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
+mike-touying
+  rotate: false
+  xy: 120, 131
+  size: 108, 39
+  orig: 108, 39
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 142, 56
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+mouth-2
+  rotate: true
+  xy: 219, 213
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+pipe
+  rotate: false
+  xy: 2, 2
+  size: 70, 63
+  orig: 70, 63
+  offset: 0, 0
+  index: -1

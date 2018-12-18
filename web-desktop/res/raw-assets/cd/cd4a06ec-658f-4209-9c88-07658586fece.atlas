@@ -1,0 +1,27 @@
+
+tiger.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 12
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 75, 78
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: false
+  xy: 2, 2
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1

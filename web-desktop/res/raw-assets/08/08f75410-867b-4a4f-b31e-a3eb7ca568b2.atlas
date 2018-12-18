@@ -1,0 +1,97 @@
+
+monster02c.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 144, 34
+  size: 120, 92
+  orig: 120, 92
+  offset: 0, 0
+  index: -1
+ear01
+  rotate: false
+  xy: 383, 53
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+ear02
+  rotate: false
+  xy: 471, 92
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+effect
+  rotate: false
+  xy: 2, 36
+  size: 140, 90
+  orig: 140, 90
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 336, 41
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+eye02
+  rotate: false
+  xy: 423, 81
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: true
+  xy: 499, 93
+  size: 33, 11
+  orig: 33, 11
+  offset: 0, 0
+  index: -1
+leaf01
+  rotate: false
+  xy: 336, 88
+  size: 85, 38
+  orig: 85, 38
+  offset: 0, 0
+  index: -1
+leaf02
+  rotate: true
+  xy: 266, 2
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+leaf03
+  rotate: false
+  xy: 266, 51
+  size: 68, 75
+  orig: 68, 75
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 2, 21
+  size: 81, 13
+  orig: 81, 13
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 2, 4
+  size: 46, 15
+  orig: 46, 15
+  offset: 0, 0
+  index: -1
+tear
+  rotate: false
+  xy: 50, 4
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1

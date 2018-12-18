@@ -1,0 +1,83 @@
+
+kaokao_2.png
+size: 235,235
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+eye-1
+  rotate: false
+  xy: 2, 72
+  size: 97, 55
+  orig: 97, 55
+  offset: 0, 0
+  index: -1
+eye-2
+  rotate: true
+  xy: 144, 136
+  size: 97, 55
+  orig: 97, 55
+  offset: 0, 0
+  index: -1
+eye-3
+  rotate: true
+  xy: 201, 161
+  size: 72, 16
+  orig: 72, 16
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 129
+  size: 140, 104
+  orig: 140, 104
+  offset: 0, 0
+  index: -1
+kaokao-body2
+  rotate: true
+  xy: 64, 2
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+kaokao-touying
+  rotate: false
+  xy: 126, 40
+  size: 107, 40
+  orig: 107, 40
+  offset: 0, 0
+  index: -1
+left-arm
+  rotate: true
+  xy: 201, 133
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+mouth-1
+  rotate: false
+  xy: 219, 224
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+mouth-2
+  rotate: false
+  xy: 126, 28
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+pipe
+  rotate: true
+  xy: 101, 82
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1

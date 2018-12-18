@@ -1,0 +1,62 @@
+
+monster24.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eyebrows01
+  rotate: false
+  xy: 37, 48
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 98
+  size: 137, 156
+  orig: 137, 156
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 37, 69
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: false
+  xy: 141, 197
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+foot01
+  rotate: true
+  xy: 2, 2
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+hand01
+  rotate: false
+  xy: 2, 37
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 141, 226
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 193, 241
+  size: 41, 13
+  orig: 41, 13
+  offset: 0, 0
+  index: -1

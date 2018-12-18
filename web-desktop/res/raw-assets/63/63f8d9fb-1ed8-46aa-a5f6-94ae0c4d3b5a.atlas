@@ -1,0 +1,55 @@
+
+monster3c.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 77
+  size: 166, 168
+  orig: 166, 168
+  offset: 0, 0
+  index: -1
+eye-01
+  rotate: false
+  xy: 98, 25
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+eye-03
+  rotate: false
+  xy: 170, 133
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+eye-05
+  rotate: true
+  xy: 225, 205
+  size: 40, 13
+  orig: 40, 13
+  offset: 0, 0
+  index: -1
+eye-07
+  rotate: false
+  xy: 98, 8
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+hand-01
+  rotate: false
+  xy: 170, 185
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 2, 2
+  size: 94, 73
+  orig: 94, 73
+  offset: 0, 0
+  index: -1

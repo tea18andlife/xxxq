@@ -1,0 +1,41 @@
+
+monster01b.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 19
+  size: 128, 92
+  orig: 128, 92
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 132, 64
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+eye02
+  rotate: false
+  xy: 180, 64
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: false
+  xy: 132, 50
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+tear
+  rotate: false
+  xy: 2, 2
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1

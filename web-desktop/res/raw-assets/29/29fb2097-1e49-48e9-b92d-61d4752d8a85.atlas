@@ -1,0 +1,97 @@
+
+monster5.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 65
+  size: 166, 179
+  orig: 166, 179
+  offset: 0, 0
+  index: -1
+erduo-01
+  rotate: false
+  xy: 284, 198
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+eye-01
+  rotate: false
+  xy: 89, 29
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+eye-02
+  rotate: false
+  xy: 284, 165
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+eye-03
+  rotate: false
+  xy: 211, 110
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+eye-04
+  rotate: false
+  xy: 333, 213
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+eye-05
+  rotate: false
+  xy: 2, 2
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+eye-06
+  rotate: false
+  xy: 127, 51
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+eye-07
+  rotate: false
+  xy: 211, 95
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+eye-08
+  rotate: false
+  xy: 249, 132
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+hand-01
+  rotate: false
+  xy: 170, 66
+  size: 39, 78
+  orig: 39, 78
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 2, 17
+  size: 85, 46
+  orig: 85, 46
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: false
+  xy: 170, 146
+  size: 112, 98
+  orig: 112, 98
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+monster23b.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 85
+  size: 157, 169
+  orig: 157, 169
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 2, 43
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: false
+  xy: 161, 214
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+hand01
+  rotate: false
+  xy: 44, 46
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: true
+  xy: 2, 2
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 161, 191
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1

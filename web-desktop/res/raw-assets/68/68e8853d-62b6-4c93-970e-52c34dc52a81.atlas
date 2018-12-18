@@ -1,0 +1,55 @@
+
+monster18.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 24
+  size: 122, 96
+  orig: 122, 96
+  offset: 0, 0
+  index: -1
+eye -02
+  rotate: false
+  xy: 126, 46
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+eye-01
+  rotate: false
+  xy: 178, 99
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+eye-03
+  rotate: false
+  xy: 37, 10
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+eye-04
+  rotate: false
+  xy: 126, 36
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+hand_02
+  rotate: true
+  xy: 2, 2
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+wing_01
+  rotate: false
+  xy: 126, 69
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1

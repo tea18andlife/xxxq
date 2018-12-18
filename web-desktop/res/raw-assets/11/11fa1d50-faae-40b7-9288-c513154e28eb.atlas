@@ -1,0 +1,97 @@
+
+apple.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body01
+  rotate: false
+  xy: 96, 43
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+body02
+  rotate: false
+  xy: 2, 35
+  size: 92, 91
+  orig: 92, 91
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 2, 7
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: false
+  xy: 208, 112
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+eye05
+  rotate: false
+  xy: 96, 35
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+eye07
+  rotate: false
+  xy: 181, 100
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+eyebrow01
+  rotate: true
+  xy: 44, 2
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+eyebrow_angry01
+  rotate: true
+  xy: 181, 70
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 181, 55
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 44, 13
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+mouth04_happly
+  rotate: true
+  xy: 29, 2
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+mouth05_happly
+  rotate: false
+  xy: 29, 22
+  size: 38, 11
+  orig: 38, 11
+  offset: 0, 0
+  index: -1
+mouth06_angry
+  rotate: false
+  xy: 69, 25
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1

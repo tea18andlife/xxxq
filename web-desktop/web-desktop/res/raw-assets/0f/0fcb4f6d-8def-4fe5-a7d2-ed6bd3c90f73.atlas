@@ -1,0 +1,69 @@
+
+monster25c.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 117, 186
+  orig: 117, 186
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 219, 79
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: false
+  xy: 258, 79
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+foot01
+  rotate: true
+  xy: 328, 103
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+foot02
+  rotate: true
+  xy: 355, 103
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+hand01
+  rotate: false
+  xy: 190, 68
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: true
+  xy: 190, 27
+  size: 39, 16
+  orig: 39, 16
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 297, 87
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 297, 103
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1

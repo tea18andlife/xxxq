@@ -1,0 +1,41 @@
+
+baby01.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 46
+  size: 90, 75
+  orig: 90, 75
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 94, 88
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: true
+  xy: 2, 2
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+eye05
+  rotate: false
+  xy: 2, 28
+  size: 45, 16
+  orig: 45, 16
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 120, 110
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1

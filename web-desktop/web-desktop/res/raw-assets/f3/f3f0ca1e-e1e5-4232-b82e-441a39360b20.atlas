@@ -1,0 +1,27 @@
+
+frog.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 77, 60
+  orig: 77, 60
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 81, 36
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: false
+  xy: 81, 8
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

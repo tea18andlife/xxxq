@@ -1,0 +1,90 @@
+
+kaokao_4.png
+size: 251,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 6
+  size: 77, 60
+  orig: 77, 60
+  offset: 0, 0
+  index: -1
+eye-1
+  rotate: false
+  xy: 2, 68
+  size: 97, 55
+  orig: 97, 55
+  offset: 0, 0
+  index: -1
+eye-2
+  rotate: false
+  xy: 144, 194
+  size: 97, 55
+  orig: 97, 55
+  offset: 0, 0
+  index: -1
+eye-3
+  rotate: true
+  xy: 190, 58
+  size: 72, 16
+  orig: 72, 16
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 125
+  size: 140, 124
+  orig: 140, 124
+  offset: 0, 0
+  index: -1
+kaokao-body2
+  rotate: false
+  xy: 144, 132
+  size: 77, 60
+  orig: 77, 60
+  offset: 0, 0
+  index: -1
+kaokao-touying
+  rotate: true
+  xy: 148, 23
+  size: 107, 40
+  orig: 107, 40
+  offset: 0, 0
+  index: -1
+left-arm
+  rotate: false
+  xy: 81, 7
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+mouth-1
+  rotate: false
+  xy: 208, 121
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+mouth-2
+  rotate: true
+  xy: 190, 36
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+pipe
+  rotate: false
+  xy: 101, 62
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+right- arm
+  rotate: false
+  xy: 223, 162
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

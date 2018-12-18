@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"PetExtract","json":{"json":[{"ExtractType":1,"CostType":1,"CostNumber":500,"S":0,"A":0.2,"B":0.8},{"ExtractType":2,"CostType":2,"CostNumber":5,"S":0.4,"A":0.6,"B":0}]}}

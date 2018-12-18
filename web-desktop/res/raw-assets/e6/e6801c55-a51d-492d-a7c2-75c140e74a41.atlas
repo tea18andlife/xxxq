@@ -1,0 +1,83 @@
+
+monster13.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beard
+  rotate: false
+  xy: 307, 100
+  size: 84, 25
+  orig: 84, 25
+  offset: 0, 0
+  index: -1
+eye-01
+  rotate: false
+  xy: 2, 4
+  size: 83, 39
+  orig: 83, 39
+  offset: 0, 0
+  index: -1
+eye-02
+  rotate: false
+  xy: 222, 86
+  size: 83, 39
+  orig: 83, 39
+  offset: 0, 0
+  index: -1
+eye-03
+  rotate: false
+  xy: 133, 53
+  size: 80, 10
+  orig: 80, 10
+  offset: 0, 0
+  index: -1
+eye-04
+  rotate: false
+  xy: 222, 72
+  size: 71, 12
+  orig: 71, 12
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 45
+  size: 129, 80
+  orig: 129, 80
+  offset: 0, 0
+  index: -1
+hand-01
+  rotate: true
+  xy: 136, 2
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+hand-02
+  rotate: false
+  xy: 87, 5
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 133, 65
+  size: 87, 60
+  orig: 87, 60
+  offset: 0, 0
+  index: -1
+mouth-01
+  rotate: false
+  xy: 307, 86
+  size: 46, 12
+  orig: 46, 12
+  offset: 0, 0
+  index: -1
+mouth-03
+  rotate: false
+  xy: 393, 117
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+monster1.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 15
+  size: 112, 111
+  orig: 112, 111
+  offset: 0, 0
+  index: -1
+eye-01
+  rotate: false
+  xy: 116, 30
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+eye-02
+  rotate: false
+  xy: 165, 80
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+eye-03
+  rotate: false
+  xy: 165, 32
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+eye-05
+  rotate: true
+  xy: 213, 81
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+eye-07
+  rotate: true
+  xy: 213, 35
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+hand-01
+  rotate: false
+  xy: 116, 78
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+mouth-01
+  rotate: true
+  xy: 116, 2
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
